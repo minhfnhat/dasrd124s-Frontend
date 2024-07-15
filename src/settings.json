@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions",
+        "title": "Streamline Your Integration Journey"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Streamline Your Integration Journey",
+  "subtitle": "Effortlessly Connect and Enhance Your Systems with Cutting-Edge API Solutions"
+}
